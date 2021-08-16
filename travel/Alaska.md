@@ -2,6 +2,27 @@
 * https://www.alaskacollection.com/day-tours/kenai-fjords-tours/kenai-fjords-national-park-tour/
 * Other tour options - https://www.alaska.org/things-to-do/glacier-tours#alaska-glacier-tours-by-water
 
+# Hikes
+## Glacier Hikes
+* https://andreakuuipoabroad.com/glacier-hikes-near-anchorage/
+  * Matanuska Valley  
+    https://www.anchorage.net/outdoors/glaciers/matanuska-valley/
+    ```
+    It’s hard to beat the mighty Matanuska for highway-accessible glacier views. The glacier is just off the 
+    Glenn Highway. A large, state-maintained overlook is just off the highway. 
+    Ready to stretch your legs? 
+    A short, 1-mile path through a forest of quaking aspens explores the natural phenomenon of glaciers, and 
+    gives trekkers other perspectives of the glacier, the Chugach Mountains above it, and the Matanuska River below it.
+    ```
+    https://www.alltrails.com/trail/us/alaska/matanuska-glacier-trail
+    ```
+    Matanuska Glacier Trail is a 1.6 mile moderately trafficked loop trail located near Sutton, Alaska that features
+    beautiful wild flowers and is rated as moderate. The trail is primarily used for hiking, walking, and rock climbing
+    and is best used from April until October. Dogs are also able to use this trail but must be kept on leash.
+    ```
+    **Note** This trail is paid access only. It is **on private land** and the owner **charges $65-$100 per person** to pass through the gate. 
+    For more information, please see https://glacier-tours.com/
+
 # Scenic Drives
 * https://www.alaska.org/destination/anchorage/scenic-drives
 
