@@ -3,8 +3,8 @@
 * Other tour options - https://www.alaska.org/things-to-do/glacier-tours#alaska-glacier-tours-by-water
 
 # Hikes
-## Glacier Hikes
-* https://andreakuuipoabroad.com/glacier-hikes-near-anchorage/
+  ## Glacier Hikes
+  https://andreakuuipoabroad.com/glacier-hikes-near-anchorage/
   
   * Matanuska Glacier  
     ```
@@ -73,7 +73,7 @@
     ```
 
 # Scenic Drives
-* https://www.alaska.org/destination/anchorage/scenic-drives
+  https://www.alaska.org/destination/anchorage/scenic-drives
 
   ## Shuttle Tours
   * Turnagain Shuttle Tour - https://www.turnagainshuttle.com/  
@@ -81,23 +81,44 @@
   The Turnagain Arm Shuttle is the largest shuttle service to the Turnagain Arm region of Alaska with daily departures to
   some of the regions most popular sights. Build your own tour, with northbound and southbound tickets sold separately.
   ```
+# Northern Lights
+  https://www.alaska.org/things-to-do/northern-lights-viewing
+  
+  ```
+  When do the northern lights appear? Not during the summer midnight sun, because it doesn’t get dark! 
+  But from mid – August to mid-April, it’s possible to see the northern lights in Alaska.
+  ```
+  ## How to Increase Your Chances of Seeing the Lights?
+   There’s no guarantee, of course: Clouds may cover them, or they may simply not show up in your location. Fortunately, there are a couple ways to greatly improve your chances of seeing the aurora:
 
+  * **Plan 5 - 7 days** for your trip and dedicate at least 3 nights to looking for the lights, so that you, too, will have a 90% chance of seeing them. It can work as a three- or four-day trip centered on a weekend, but then you will need to be more focused.
+  * **Go to Fairbanks and the aurora oval.** The main auroral band crosses the state in an arc north of the Alaska Range, which makes Fairbanks and the surrounding area Alaska’s sweet spot for northern lights viewing. And it’s easy to reach: You can fly into Fairbanks and be at a world-class aurora–viewing venue in under an an hour.
+
+  **Aurora Pointe Activity Center**  
+  ```
+  570 Funk Road
+  Fairbanks, AK 99712
+  ```
+  https://www.alaska.org/detail/aurora-pointe-activity-center  
+  Witnessing the colorful, dramatic Northern Lights is an iconic Alaskan winter experience. Look for the lights at the Aurora Pointe Activity Center, just **15 minutes from downtown Fairbanks**—it’s a fun and informative way to enjoy this very unique natural phenomenon.
+  
 # Visiting Denali
-* https://www.nps.gov/dena/planyourvisit/visiting-denali.htm
- ````
- During summer, roughly late May through early September, private vehicles may drive the first fifteen miles of this road, 
- to a place called Savage River. The road to Savage River is paved, and features numerous pull-outs for folks to stop and 
- snap some scenic photos. "The Mountain" can be seen as early as Mile 9, if the day isn't too overcast, and animals of all 
- sorts can sometimes be seen on this stretch of road - although chances to see wildlife increase greatly with a bus trip 
- farther down the Park Road. Beyond the Savage River Check Station at mile 15 of the Park Road, you'll need to be on a bus, 
- bicycle, or on foot.
- ````
-  ## Exploring Denali by Bus
-  Types of Bus Trips: `Tour` vs. `Transit`  
+  https://www.nps.gov/dena/planyourvisit/visiting-denali.htm
+  
+   ````
+   During summer, roughly late May through early September, private vehicles may drive the first fifteen miles of this road, 
+   to a place called Savage River. The road to Savage River is paved, and features numerous pull-outs for folks to stop and 
+   snap some scenic photos. "The Mountain" can be seen as early as Mile 9, if the day isn't too overcast, and animals of all 
+   sorts can sometimes be seen on this stretch of road - although chances to see wildlife increase greatly with a bus trip 
+   farther down the Park Road. Beyond the Savage River Check Station at mile 15 of the Park Road, you'll need to be on a bus, 
+   bicycle, or on foot.
+   ````
+   ## Exploring Denali by Bus
+   Types of Bus Trips: `Tour` vs. `Transit`  
 
-  You should understand the nature of bus trips in Denali before booking anything.
+   You should understand the nature of bus trips in Denali before booking anything.
 
-  There are two main types of buses in Denali - narrated trips (tour buses) and non-narrated trips (transit buses). In addition, a few free buses travel routes around the park entrance, connecting visitor centers and points of interest in the same area where visitors may drive their own vehicles.
+   There are two main types of buses in Denali - narrated trips (tour buses) and non-narrated trips (transit buses). In addition, a few free buses travel routes around the park entrance, connecting visitor centers and points of interest in the same area where visitors may drive their own vehicles.
 
   `Non-narrated transit buses`  
   https://www.nps.gov/dena/planyourvisit/shuttles.htm  
