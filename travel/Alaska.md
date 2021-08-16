@@ -102,6 +102,8 @@
   https://www.alaska.org/detail/aurora-pointe-activity-center  
   Witnessing the colorful, dramatic Northern Lights is an iconic Alaskan winter experience. Look for the lights at the Aurora Pointe Activity Center, just **15 minutes from downtown Fairbanks**—it’s a fun and informative way to enjoy this very unique natural phenomenon.
   
+  Also check for any spots near Anchorage, to view the Northern lights: https://www.alaska.org/advice/best-northern-lights-viewing-spots-near-anchorage
+  
 # Visiting Denali
   https://www.nps.gov/dena/planyourvisit/visiting-denali.htm
   
